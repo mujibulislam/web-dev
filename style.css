@@ -1,0 +1,54 @@
+.para{
+    color: rgb(80, 255, 109);
+    background: blueviolet;
+    height: 40%;
+    width: 50%;
+    margin-left: 30%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom:2% ;
+    padding-right: 2%;
+
+
+    
+    
+}
+.para{
+    position: relative;
+    justify-content: center;
+    justify-items: center;
+
+
+}
+
+.box{
+    display: flex;
+}
+.lo{
+    width: 59%;
+    text-align: center;
+    margin-left: 5%;
+}
+.spa{
+    color: chartreuse;
+}
+.pbm{
+    border: 2px skyblue solid;
+    color: darkgreen;
+    margin:  50px 100px;
+    padding: 40px;
+    border-radius: 50% ;
+    box-shadow: 4px 6px 8px 9px red;
+    text-align: justify;
+   
+}
+.fo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+.head{
+    display: inline;
+}
+.sml{
+    display: block;
+}

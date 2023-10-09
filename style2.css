@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+
+}
+.child{
+    width: 30%;
+    text-align: justify;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.child-con{
+    display: flex;
+}
